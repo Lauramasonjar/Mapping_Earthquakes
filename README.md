@@ -36,7 +36,7 @@ Tectonic plates are pieces of Earth's crust and uppermost mantle, together refer
 
 - The earthquake intensity, darker color with larger diameter represents earthquakes with a higher magnitude.
 
-
+![Mapping_Earthquakes](https://github.com/Lauramasonjar/Mapping_Earthquakes/blob/main/Mapping%20Earthquakes.png)
 
 #
 
